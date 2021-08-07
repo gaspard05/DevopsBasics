@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: ADevLab-agent
 
 steps:
 - task: Maven@3
